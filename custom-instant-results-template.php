@@ -1,7 +1,7 @@
 <?php
 /**
  * Plugin Name: Custom Instant Results Template
- * Description: A fast and flexible search and query engine for WordPress.
+ * Description: Barebones starting point for a plugin that filters the template used for results in ElasticPress's Instant Results feature.
  * Version: 0.1.0
  * Author: 10up
  * Author URI: https://10up.com
