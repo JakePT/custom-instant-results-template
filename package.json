@@ -1,0 +1,13 @@
+{
+  "name": "custom-instant-results-template",
+  "version": "1.0.0",
+  "scripts": {
+    "build": "wp-scripts build src/script.js --webpack-no-externals"
+  },
+  "devDependencies": {
+    "@wordpress/scripts": "^25.3.0"
+  },
+  "eslintConfig": {
+    "extends": "plugin:@wordpress/eslint-plugin/recommended"
+  }
+}
